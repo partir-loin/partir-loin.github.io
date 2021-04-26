@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Partir loin</title>
+    <link>http://partir-loin.fr/</link>
+    <description>Recent content on Partir loin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sun, 25 Apr 2021 22:42:31 -0400</lastBuildDate><atom:link href="http://partir-loin.fr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://partir-loin.fr/about/</link>
+      <pubDate>Sun, 25 Apr 2021 22:50:57 -0400</pubDate>
+      
+      <guid>http://partir-loin.fr/about/</guid>
+      <description>WHAT ?</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://partir-loin.fr/posts/my-first-post/</link>
+      <pubDate>Sun, 25 Apr 2021 22:42:31 -0400</pubDate>
+      
+      <guid>http://partir-loin.fr/posts/my-first-post/</guid>
+      <description>TESSSST</description>
+    </item>
+    
+  </channel>
+</rss>
