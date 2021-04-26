@@ -5,8 +5,7 @@
     <link>http://partir-loin.fr/</link>
     <description>Recent content on Partir loin</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language>
-    <lastBuildDate>Sun, 25 Apr 2021 22:42:31 -0400</lastBuildDate><atom:link href="http://partir-loin.fr/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr-fr</language><atom:link href="http://partir-loin.fr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>http://partir-loin.fr/about/</link>
@@ -14,15 +13,6 @@
       
       <guid>http://partir-loin.fr/about/</guid>
       <description>WHAT ?</description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>http://partir-loin.fr/posts/my-first-post/</link>
-      <pubDate>Sun, 25 Apr 2021 22:42:31 -0400</pubDate>
-      
-      <guid>http://partir-loin.fr/posts/my-first-post/</guid>
-      <description>TESSSST</description>
     </item>
     
   </channel>
