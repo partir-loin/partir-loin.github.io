@@ -31,8 +31,6 @@
   </url><url>
     <loc>https://partir-loin.fr/auteur/</loc>
   </url><url>
-    <loc>https://partir-loin.fr/a-propos/</loc>
-  </url><url>
     <loc>https://partir-loin.fr/contact/</loc>
   </url><url>
     <loc>https://partir-loin.fr/auteur/mathieu/</loc>
@@ -40,5 +38,7 @@
     <loc>https://partir-loin.fr/privacy-policy/</loc>
   </url><url>
     <loc>https://partir-loin.fr/search/</loc>
+  </url><url>
+    <loc>https://partir-loin.fr/a-propos/</loc>
   </url>
 </urlset>
