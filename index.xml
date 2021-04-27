@@ -5,25 +5,24 @@
     <link>https://partir-loin.fr/</link>
     <description>Recent content on Partir Loin</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language>
-    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://partir-loin.fr/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr-fr</language><atom:link href="https://partir-loin.fr/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Que faire à Chypre</title>
-      <link>https://partir-loin.fr/post/que-faire-a-chypre/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://partir-loin.fr/post/que-faire-a-chypre/</guid>
-      <description>Découvrez les activités à faire et meilleurs endroits lors de votre visite à Chypre 1/ Le Festival du Déluge ou Kataklysmos (Pentecôte) à Chypre Le Kataklysmos, évènement traditionnel chypriote Le Festival du Déluge, appelé également Kataklysmos, est un événement tout à fait surprenant à Chypre. Correspondant au lundi de Pentecôte, cette tradition de la religion orthodoxe a pris une place importante dans l’esprit des chypriotes.
-Le festival du Déluge se déroule cinquante jours après Pâques.</description>
-    </item>
-    
-    <item>
-      <title>Mathieu - Partir-loin.fr</title>
+      <title>Mathieu</title>
       <link>https://partir-loin.fr/auteur/mathieu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://partir-loin.fr/auteur/mathieu/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet. Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper.</description>
+    </item>
+    
+    <item>
+      <title>Que faire à Chypre</title>
+      <link>https://partir-loin.fr/post/que-faire-a-chypre/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://partir-loin.fr/post/que-faire-a-chypre/</guid>
+      <description>Découvrez les activités à faire et meilleurs endroits lors de votre visite à Chypre 1/ Le Festival du Déluge ou Kataklysmos (Pentecôte) à Chypre Le Kataklysmos, évènement traditionnel chypriote Le Festival du Déluge, appelé également Kataklysmos, est un événement tout à fait surprenant à Chypre. Correspondant au lundi de Pentecôte, cette tradition de la religion orthodoxe a pris une place importante dans l’esprit des chypriotes.
+Le festival du Déluge se déroule cinquante jours après Pâques.</description>
     </item>
     
   </channel>

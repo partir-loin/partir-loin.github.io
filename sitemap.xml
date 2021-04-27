@@ -2,42 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://partir-loin.fr/auteur/</loc>
+  </url><url>
     <loc>https://partir-loin.fr/categories/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
     <loc>https://partir-loin.fr/categories/chypre/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://partir-loin.fr/tags/courses/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://partir-loin.fr/tags/festival/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://partir-loin.fr/tags/f%C3%AAtes-religieuses/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://partir-loin.fr/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://partir-loin.fr/post/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://partir-loin.fr/post/que-faire-a-chypre/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://partir-loin.fr/tags/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://partir-loin.fr/auteur/</loc>
   </url><url>
     <loc>https://partir-loin.fr/contact/</loc>
   </url><url>
+    <loc>https://partir-loin.fr/tags/courses/</loc>
+  </url><url>
+    <loc>https://partir-loin.fr/tags/festival/</loc>
+  </url><url>
+    <loc>https://partir-loin.fr/tags/f%C3%AAtes-religieuses/</loc>
+  </url><url>
     <loc>https://partir-loin.fr/auteur/mathieu/</loc>
   </url><url>
-    <loc>https://partir-loin.fr/privacy-policy/</loc>
+    <loc>https://partir-loin.fr/</loc>
+  </url><url>
+    <loc>https://partir-loin.fr/post/</loc>
+  </url><url>
+    <loc>https://partir-loin.fr/post/que-faire-a-chypre/</loc>
   </url><url>
     <loc>https://partir-loin.fr/search/</loc>
+  </url><url>
+    <loc>https://partir-loin.fr/tags/</loc>
   </url><url>
     <loc>https://partir-loin.fr/a-propos/</loc>
   </url>
