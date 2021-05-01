@@ -4,6 +4,8 @@
   <url>
     <loc>https://partir-loin.fr/auteur/</loc>
   </url><url>
+    <loc>https://partir-loin.fr/tags/</loc>
+  </url><url>
     <loc>https://partir-loin.fr/tags/chypre/</loc>
   </url><url>
     <loc>https://partir-loin.fr/contact/</loc>
@@ -57,8 +59,6 @@
     <loc>https://partir-loin.fr/post/</loc>
   </url><url>
     <loc>https://partir-loin.fr/search/</loc>
-  </url><url>
-    <loc>https://partir-loin.fr/tags/</loc>
   </url><url>
     <loc>https://partir-loin.fr/a-propos/</loc>
   </url>
