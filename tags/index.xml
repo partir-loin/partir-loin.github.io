@@ -160,7 +160,7 @@
     </item>
     
     <item>
-      <title>Guide de voyage</title>
+      <title>Guide de Voyage</title>
       <link>https://partir-loin.fr/tags/guide-de-voyage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -169,7 +169,7 @@
     </item>
     
     <item>
-      <title>Guide des Hôtels</title>
+      <title>Guide des hôtels</title>
       <link>https://partir-loin.fr/tags/guide-des-h%C3%B4tels/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -322,20 +322,20 @@
     </item>
     
     <item>
-      <title>Republique-Tcheque</title>
-      <link>https://partir-loin.fr/tags/republique-tcheque/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://partir-loin.fr/tags/republique-tcheque/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Roumanie</title>
       <link>https://partir-loin.fr/tags/roumanie/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://partir-loin.fr/tags/roumanie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>République Tchèque</title>
+      <link>https://partir-loin.fr/tags/republique-tcheque/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://partir-loin.fr/tags/republique-tcheque/</guid>
       <description></description>
     </item>
     
